@@ -53,7 +53,7 @@ Returns system diagnostics (environment, network, LLM health).
 
 ---
 
-## Setup
+## Local setup
 
 ### 1. Install dependencies
 
@@ -103,7 +103,3 @@ http://localhost:8000
 * Research and experimentation with LLM agents
 
 ---
-
-## License
-
-Add your preferred license.
